@@ -1,3 +1,5 @@
+👉 **Full article (context, problems, and solutions):** https://media.prostrike.io/auto-add-aliexpress-tracking-to-fulfilled-shopify-orders/
+
 # Auto-add AliExpress Tracking to Fulfilled Shopify Orders (Google Apps Script)
 
 > Sync AliExpress shipping emails → extract Ali order IDs & tracking → match to Shopify fulfilled orders → push tracking via GraphQL → log to Google Sheet, with 72-hour no-tracking alerts.
